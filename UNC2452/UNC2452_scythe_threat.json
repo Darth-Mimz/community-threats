@@ -140,7 +140,7 @@
             "15": {
                 "depends_on": "ed8a7322-630d-4cc1-b065-8c2361d9f45d",
                 "module": "upsh",
-                "request": "--cmd Get-LocalGroupMember Admininstrators",
+                "request": "--cmd Get-LocalGroupMember Administrators",
                 "rtags": [
                     "att&ck-technique:T1087.001",
                     "att&ck-technique:T1087"
